@@ -462,7 +462,7 @@ public class Remissao_Hoepers extends JFrame
           tela.setBackground(Color.black);                      //Tela cores padrão 
           //tela.setBackground(new Color(230, 230, 230));      // Telas cores Personalizadas
           pack();
-          setSize(500, 450);
+          setSize(510, 465);
           setVisible(true);
           setLocationRelativeTo(null);
          //setExtendedState(ICONIFIED);                           // Para Exibir Janela Minimizada
